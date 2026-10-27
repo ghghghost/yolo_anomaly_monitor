@@ -1,0 +1,4 @@
+ultralytics>=8.4.120
+opencv-python>=4.10.0
+Pillow>=10.4.0
+
